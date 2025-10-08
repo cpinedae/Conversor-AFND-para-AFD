@@ -29,6 +29,8 @@ class Estado:
 	def afnd(self, listaDeEstados):
 		self.afnd_uniao = listaDeEstados
 
+		# validar
+
 def Opcoes():
 	print '-------------- MENU --------------'
 	print '1 - Inserir Estados'
